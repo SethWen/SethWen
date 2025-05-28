@@ -6,9 +6,9 @@ Hey! Nice to see you.
 
 <p>
 Welcome to my page! 
-</br> 
+<br>
 I'm Shawn, a fullstack developer and a passionate learner. 
-</br> 
+<br> 
 
 <h3>Things I code with</h3>
 <p>
@@ -99,4 +99,15 @@ I'm Shawn, a fullstack developer and a passionate learner.
   </tbody>
 </table>
 
-------------
+<h3>Github Stats</h3>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=SethWen&show_icons=true&theme=dracula" alt="SethWen's GitHub Stats">
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethWen&show_icons=true&theme=dracula" alt="SethWen's Top Languages">
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SethWen&theme=dracula" alt="SethWen's GitHub Streak Stats">
+</p>
